@@ -228,6 +228,8 @@ export default function Home() {
               "Prisma",
               "PostgreSQL",
               "NextAuth",
+              "OpenAI API",
+               "n8n",
               "AI Automation",
               "REST APIs",
               "Git & GitHub",

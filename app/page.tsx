@@ -286,34 +286,53 @@ export default function Home() {
       </section>
 
       {/* Contact */}
-      <section id="contact" className="border-t border-slate-800">
-        <div className="mx-auto max-w-6xl px-6 py-20">
-          <p className="text-sm font-semibold uppercase tracking-widest text-blue-400">
-            Contact
-          </p>
+      <section id="contact" className="border-t border-white/10 py-24">
+  <div className="mx-auto max-w-6xl px-6">
+    <div className="max-w-2xl">
+      <p className="mb-4 text-sm font-medium tracking-[0.2em] text-white/50">
+        CONTACT
+      </p>
 
-          <h2 className="mt-3 text-3xl font-bold md:text-4xl">
-            Let&apos;s build something useful.
-          </h2>
+      <h2 className="text-3xl font-semibold tracking-tight sm:text-4xl">
+        Let&apos;s build something useful.
+      </h2>
 
-          <p className="mt-5 max-w-2xl text-lg leading-8 text-slate-400">
-            I&apos;m interested in software development, AI automation, and
-            opportunities where technology can solve meaningful business
-            problems.
-          </p>
+      <p className="mt-5 text-base leading-7 text-white/60">
+        I&apos;m open to opportunities involving full-stack development,
+        AI automation, and software solutions that solve real business
+        problems.
+      </p>
 
-          <div className="mt-8 flex flex-wrap gap-4">
-            <a
-              href="https://github.com/trevoshub"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="rounded-lg bg-blue-500 px-6 py-3 font-semibold text-white transition hover:bg-blue-600"
-            >
-              GitHub
-            </a>
-          </div>
-        </div>
-      </section>
+      <div className="mt-8 flex flex-wrap gap-4">
+        <a
+          href="mailto:tochi@trevoslimited.com"
+          className="rounded-full border border-white/15 px-5 py-3 text-sm font-medium transition hover:bg-white hover:text-black"
+        >
+          Email Me
+        </a>
+
+        <a
+          href="https://www.linkedin.com/in/tochieleazar/"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="rounded-full border border-white/15 px-5 py-3 text-sm font-medium transition hover:bg-white hover:text-black"
+        >
+          LinkedIn
+        </a>
+
+        <a
+          href="https://github.com/trevoshub"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="rounded-full border border-white/15 px-5 py-3 text-sm font-medium transition hover:bg-white hover:text-black"
+        >
+          GitHub
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
 
       {/* Footer */}
       <footer className="border-t border-slate-800">

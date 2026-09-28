@@ -56,7 +56,7 @@ export default function Home() {
             </a>
 
             <a
-              href="https://github.com/Trevosonline"
+              href="https://github.com/trevoshub"
               target="_blank"
               rel="noopener noreferrer"
               className="rounded-lg border border-slate-700 px-6 py-3 font-semibold text-slate-200 transition hover:border-slate-500 hover:bg-slate-900"
@@ -304,7 +304,7 @@ export default function Home() {
 
           <div className="mt-8 flex flex-wrap gap-4">
             <a
-              href="https://github.com/Trevosonline"
+              href="https://github.com/trevoshub"
               target="_blank"
               rel="noopener noreferrer"
               className="rounded-lg bg-blue-500 px-6 py-3 font-semibold text-white transition hover:bg-blue-600"

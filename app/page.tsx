@@ -116,7 +116,7 @@ export default function Home() {
           <div className="mt-10 grid gap-6 md:grid-cols-3">
             {/* Trevos Assistant */}
             <a
-              href="https://github.com/Trevosonline"
+              href="https://github.com/trevoshub/trevos-assistant"
               target="_blank"
               rel="noopener noreferrer"
               className="group block rounded-xl border border-slate-800 bg-slate-900 p-6 transition duration-300 hover:-translate-y-1 hover:border-blue-500"
@@ -146,7 +146,7 @@ export default function Home() {
 
             {/* Trevos Suite 360 */}
             <a
-              href="https://github.com/Trevosonline"
+              href="https://trevos-suite-360-production.up.railway.app"
               target="_blank"
               rel="noopener noreferrer"
               className="group block rounded-xl border border-slate-800 bg-slate-900 p-6 transition duration-300 hover:-translate-y-1 hover:border-blue-500"
@@ -176,7 +176,7 @@ export default function Home() {
 
             {/* Trevos Watch */}
             <a
-              href="https://github.com/Trevosonline"
+              href="https://github.com/trevoshub/trevos-watch"
               target="_blank"
               rel="noopener noreferrer"
               className="group block rounded-xl border border-slate-800 bg-slate-900 p-6 transition duration-300 hover:-translate-y-1 hover:border-blue-500"
